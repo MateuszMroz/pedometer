@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nazwa aplikacji -->
+    <string name="app_name">Pedometr</string>
+    
+    <!-- Powiadomienia -->
+    <string name="notification_channel_name">Licznik kroków</string>
+    <string name="notification_channel_description">Powiadomienia o liczeniu kroków w tle</string>
+    <string name="notification_title">Pedometr działa</string>
+    <string name="notification_text">Dzisiaj: %d kroków</string>
+    
+    <!-- Główny ekran -->
+    <string name="steps_today">Kroki dzisiaj</string>
+    <string name="history">Historia</string>
+    <string name="history_subtitle">Historia (ostatnie 3 miesiące)</string>
+    <string name="no_data">Brak danych</string>
+    <string name="no_history_data">Brak danych historycznych</string>
+    <string name="steps">kroków</string>
+    <string name="step">krok</string>
+    <string name="refresh">Odśwież</string>
+    
+    <!-- Karta kroków -->
+    <string name="daily_goal">Cel dzienny</string>
+    <string name="goal_steps">%d kroków</string>
+    <string name="remaining">Pozostało</string>
+    <string name="remaining_steps">%d kroków</string>
+    <string name="goal_reached">Cel osiągnięty!</string>
+    <string name="keep_going">Tak trzymaj!</string>
+    
+    <!-- Historia -->
+    <string name="today">Dzisiaj</string>
+    <string name="yesterday">Wczoraj</string>
+    <string name="days_ago">%d dni temu</string>
+    
+    <!-- Dni tygodnia (skrócone) -->
+    <string name="monday_short">Pn</string>
+    <string name="tuesday_short">Wt</string>
+    <string name="wednesday_short">Śr</string>
+    <string name="thursday_short">Cz</string>
+    <string name="friday_short">Pt</string>
+    <string name="saturday_short">So</string>
+    <string name="sunday_short">Nd</string>
+    
+    <!-- Miesiące -->
+    <string name="january">stycznia</string>
+    <string name="february">lutego</string>
+    <string name="march">marca</string>
+    <string name="april">kwietnia</string>
+    <string name="may">maja</string>
+    <string name="june">czerwca</string>
+    <string name="july">lipca</string>
+    <string name="august">sierpnia</string>
+    <string name="september">września</string>
+    <string name="october">października</string>
+    <string name="november">listopada</string>
+    <string name="december">grudnia</string>
+    
+    <!-- Uprawnienia -->
+    <string name="permission_required">Wymagane uprawnienie</string>
+    <string name="permission_rationale">Aplikacja potrzebuje dostępu do czujnika aktywności fizycznej, aby liczyć kroki.</string>
+    <string name="grant_permission">Przyznaj uprawnienie</string>
+    <string name="permission_denied">Uprawnienie odrzucone</string>
+    <string name="permission_denied_message">Bez dostępu do czujnika aktywności nie możemy liczyć kroków.</string>
+    
+    <!-- Błędy -->
+    <string name="error_occurred">Wystąpił błąd</string>
+    <string name="error_loading_data">Błąd podczas wczytywania danych</string>
+    <string name="try_again">Spróbuj ponownie</string>
+    <string name="sensor_not_available">Czujnik kroków niedostępny</string>
+    <string name="sensor_not_available_message">To urządzenie nie posiada czujnika kroków.</string>
+    
+    <!-- Statystyki -->
+    <string name="average_steps">Średnio dziennie</string>
+    <string name="total_steps">Łącznie kroków</string>
+    <string name="best_day">Najlepszy dzień</string>
+    <string name="steps_count">%d kroków</string>
+    
+    <!-- Akcje -->
+    <string name="close">Zamknij</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="settings">Ustawienia</string>
+    
+    <!-- Opisy dostępności -->
+    <string name="refresh_button_description">Odśwież dane</string>
+    <string name="step_icon_description">Ikona kroków</string>
+</resources>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">Pedometer</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Step Counter</string>
+    <string name="notification_channel_description">Background step counting notifications</string>
+    <string name="notification_title">Pedometer is running</string>
+    <string name="notification_text">Today: %d steps</string>
+    
+    <!-- Main screen -->
+    <string name="steps_today">Steps today</string>
+    <string name="history">History</string>
+    <string name="history_subtitle">History (last 3 months)</string>
+    <string name="no_data">No data</string>
+    <string name="no_history_data">No historical data</string>
+    <string name="steps">steps</string>
+    <string name="step">step</string>
+    <string name="refresh">Refresh</string>
+    
+    <!-- Step card -->
+    <string name="daily_goal">Daily goal</string>
+    <string name="goal_steps">%d steps</string>
+    <string name="remaining">Remaining</string>
+    <string name="remaining_steps">%d steps</string>
+    <string name="goal_reached">Goal reached!</string>
+    <string name="keep_going">Keep going!</string>
+    
+    <!-- History -->
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="days_ago">%d days ago</string>
+    
+    <!-- Days of week (short) -->
+    <string name="monday_short">Mon</string>
+    <string name="tuesday_short">Tue</string>
+    <string name="wednesday_short">Wed</string>
+    <string name="thursday_short">Thu</string>
+    <string name="friday_short">Fri</string>
+    <string name="saturday_short">Sat</string>
+    <string name="sunday_short">Sun</string>
+    
+    <!-- Months -->
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_rationale">The app needs access to the activity recognition sensor to count steps.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="permission_denied_message">Without access to the activity sensor, we cannot count steps.</string>
+    
+    <!-- Errors -->
+    <string name="error_occurred">An error occurred</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="try_again">Try Again</string>
+    <string name="sensor_not_available">Step sensor not available</string>
+    <string name="sensor_not_available_message">This device does not have a step counter sensor.</string>
+    
+    <!-- Statistics -->
+    <string name="average_steps">Average per day</string>
+    <string name="total_steps">Total steps</string>
+    <string name="best_day">Best day</string>
+    <string name="steps_count">%d steps</string>
+    
+    <!-- Actions -->
+    <string name="close">Close</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Accessibility descriptions -->
+    <string name="refresh_button_description">Refresh data</string>
+    <string name="step_icon_description">Steps icon</string>
+</resources>
+
